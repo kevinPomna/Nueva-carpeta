@@ -1,9 +1,25 @@
 .encabezados{
-background-color: red;
+background-color: blue;
 text-align: justify;
 font-size: medium;
 }
-.miseccion{
-    background-image: url("C:\Users\USUARIO 1\Desktop\Nueva carpeta\imagen.jpg");
-
+.encabezados2{
+    background-color: yellow;
+    text-align: justify;
+    font-size: medium;
 }
+.encabezados3{
+    background-color: red;
+    text-align: justify;
+    font-size: medium;
+}
+body{
+    background-image: url(binario.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+   
+    text-align: center;
+  }
+}
+  
